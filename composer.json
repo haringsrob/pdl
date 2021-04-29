@@ -1,0 +1,19 @@
+{
+    "name": "haringsrob/pdl-composer",
+    "description": "Composer version of the pdl function",
+    "type": "library",
+    "stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harings Rob",
+            "email": "haringsrob@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "files": ["pdl.php"]
+    }
+}
